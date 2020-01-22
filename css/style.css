@@ -351,7 +351,6 @@ img {
 
 #main img {
     opacity: 0;
-    padding: 0px 10px
 }
 
 #main img.image-show {
@@ -1981,6 +1980,7 @@ button-group{
 .element-item > * {
     margin: 0;
     padding: 0;
+    padding: 0px 10px;
 }
 
 
